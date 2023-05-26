@@ -37,6 +37,6 @@ The project followed a structured data analysis process, including the following
 * Utilized business intelligence tools, data visualization techniques, and data mining approaches to explore and analyze the data.
 * Generated pivot tables and charts in Excel to uncover insights and trends.
 
-5. Results Interpretation:
+# [Tableau Dashboard](https://public.tableau.com/app/profile/leon.jose/viz/BikeStoreDashboard_16846454081950/Dashboard1)
 * Interpreted the analyzed data to gain valuable insights for the executive team.
 * Provided clear and concise information through well-designed dashboards in Tableau with KPI's.
