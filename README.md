@@ -40,3 +40,6 @@ The project followed a structured data analysis process, including the following
 # [Tableau Dashboard](https://public.tableau.com/app/profile/leon.jose/viz/BikeStoreDashboard_16846454081950/Dashboard1)
 * Interpreted the analyzed data to gain valuable insights for the executive team.
 * Provided clear and concise information through well-designed dashboards in Tableau with KPI's.
+
+![download (1)](https://github.com/no37no37/Bicycle_Sales_Analysis/assets/132648428/5374e9f0-f403-4740-ac41-efddcb4b82fc)
+
